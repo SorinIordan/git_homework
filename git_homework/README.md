@@ -1,0 +1,1 @@
+So far I learned to navigate trough the files and link the local repository to github.
